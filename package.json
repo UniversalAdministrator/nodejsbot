@@ -1,0 +1,14 @@
+{
+  "name": "aibot",
+  "version": "1.0.0",
+  "description": "ai.bot",
+  "main": "index.js",
+  "author": "dmlaziuk",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
